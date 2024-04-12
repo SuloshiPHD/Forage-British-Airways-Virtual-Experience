@@ -20,3 +20,12 @@ INSIGHTS FROM CUSTOMER REVIEWS
 
 ![download (2)](https://github.com/SuloshiPHD/Forage-British-Airways-Virtual-Experience/assets/47394580/e9bbbd0f-bdb4-4c45-834c-bf8418ff255f)
 
+## Task 2
+
+creating a classification model to predict customer buying behaviour
+preparing a powerpoint representation to highlight our insights and analysis
+
+![image](https://github.com/SuloshiPHD/Forage-British-Airways-Virtual-Experience/assets/47394580/ef725220-ec72-40a6-bb57-419dd6cfcaa3)
+
+
+Certification link : https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_sNY3dpBKLyqJDDhKr_1712950463598_completion_certificate.pdf
